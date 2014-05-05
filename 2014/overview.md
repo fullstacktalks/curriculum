@@ -42,6 +42,7 @@ JavaScript
 ## Basics
 * Syntax
 * Including scripts
+* DOM Manipulation
 * jQuery Basics
 
 ## Intermediate
@@ -56,6 +57,26 @@ JavaScript
 * Application architecture
 * AMD/Require.js
 * ES6 Modules
+
+
+RUBY
+=============
+
+## Basics
+* OOP
+* Inheritance
+* Modules
+
+## Intermediate
+* Sandi Metz Rules
+* Class Composition
+* Testing
+
+## Advanced
+* Best Practices
+* Common Refactorings
+* SOLID Principles
+
 
 RUBY ON RAILS
 =============
@@ -75,8 +96,6 @@ RUBY ON RAILS
 ## Advanced
 * Modeling Data
 * Authentication
-* Ruby best practices
-* Sandi Metz Rules
 
 Development Tools
 =================
@@ -87,11 +106,3 @@ Development Tools
 * Heroku
 * Gulp
 * Github Pages
-
-Refactoring
-===========
-
-* OO Design
-* Common refactorings 
-* Sandi Metz rules
-* SOLID principles
